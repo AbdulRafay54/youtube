@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.bttn{
+    background-color: black;
+    color: aliceblue;
+    border-color: white;
+    border-radius: 8px;
+}
+
+.bttn1{
+    border-color: wheat;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+.input{
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
